@@ -119,13 +119,5 @@ It focuses on **performance, correctness, and clean logic**, making it a great l
 
 ---
 
-If you want, I can also:
 
-* shorten this for a **minimal README**
-* add **badges**
-* write a **project summary for resume**
-* generate a **LICENSE**
-* suggest **commit messages**
-
-Just tell me 👍
 
